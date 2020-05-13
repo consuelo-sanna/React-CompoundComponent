@@ -6,7 +6,11 @@ import "./styles.css";
 function App() {
   return (
     <div className="App">
-      <Chat />
+      <Chat>
+        <Chat.Messages />
+        <Chat.Input />
+        <Chat.Button />
+      </Chat>
     </div>
   );
 }
