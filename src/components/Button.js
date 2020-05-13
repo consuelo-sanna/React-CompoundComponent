@@ -5,5 +5,5 @@ const Button = ({ onClick }) => (
     Send
   </button>
 );
-Button.displayName = "Button";
+
 export default Button;
