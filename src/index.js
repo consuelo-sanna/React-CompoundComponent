@@ -1,3 +1,5 @@
+// sandbox https://codesandbox.io/s/compound-components-the-basics-14l2v
+
 import React from "react";
 import ReactDOM from "react-dom";
 import Chat from "./components/Chat";
